@@ -2002,7 +2002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3234390-49cf-4145-aa49-506f5749f9ed")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 422.91 90.1699 90)
 			(effects
 				(font
@@ -2206,7 +2206,7 @@
 		(instances
 			(project "pspsp_obc"
 				(path "/ceb41114-7a96-4bf5-a24a-5da0a72a9412"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -2488,7 +2488,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff5f3434-0b5c-4ac7-a427-bcfe72a91211")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 422.91 57.1499 90)
 			(effects
 				(font
@@ -2692,7 +2692,7 @@
 		(instances
 			(project ""
 				(path "/ceb41114-7a96-4bf5-a24a-5da0a72a9412"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
